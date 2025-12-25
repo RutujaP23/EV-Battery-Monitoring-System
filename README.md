@@ -7,18 +7,6 @@ This project focuses on the design and implementation of a low-cost EV Battery M
 ## Project Title
 **Designing of EV Battery Monitoring System**
 
-## Team Members
-- Zahoorahmed Siraj Sayyad  
-- Shivam Milind Mule  
-- Prathmesh Uttam Yadavpatil  
-- Rutuja Anandrao Patil  
-- Omkar Milind Mane  
-
-## Guide
-Ms. V. S. Patil  
-Department of Electrical Engineering  
-Annasaheb Dange College of Engineering & Technology, Ashta
-
 ## Objective
 To monitor critical EV battery parameters such as:
 - Voltage
